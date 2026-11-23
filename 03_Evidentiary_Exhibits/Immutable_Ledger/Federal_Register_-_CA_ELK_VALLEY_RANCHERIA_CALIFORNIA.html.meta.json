@@ -1,0 +1,17 @@
+{
+  "url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=CA+ELK+VALLEY+RANCHERIA+CALIFORNIA",
+  "final_url": "https://www.federalregister.gov/documents/search?conditions%5Bsearch_type_id%5D=3&conditions%5Bterm%5D=CA+ELK+VALLEY+RANCHERIA+CALIFORNIA",
+  "title": "Federal Register - CA ELK VALLEY RANCHERIA CALIFORNIA",
+  "fetched_at": "2026-11-23T17:54:50.569991Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 218083,
+  "sha256": "39dc1837919d6f68371194cc14b6b81cfd77d7283a7f9c29a97c41e12c0908b9",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
